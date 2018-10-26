@@ -1,0 +1,1519 @@
+1539845565441	geckodriver	INFO	Listening on 127.0.0.1:51950
+1539845568515	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539845599700	Marionette	INFO	Listening on port 51961
+1539845601648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539845601719	Marionette	DEBUG	[6442450945] Frame script loaded
+1539845601720	Marionette	DEBUG	[6442450945] Frame script registered
+1539845601827	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539845601837	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539845601837	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539845601838	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 13244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845603336	Marionette	DEBUG	[8589934593] Frame script loaded
+1539845603344	Marionette	DEBUG	[8589934593] Frame script registered
+1539845603390	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539845603408	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539845603813	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2296, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 2296, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539845684757	Marionette	INFO	Stopped listening on port 51961
+[GPU 8340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845687760	geckodriver	INFO	Listening on 127.0.0.1:52038
+1539845690726	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1539845695610	Marionette	INFO	Listening on port 52046
+1539845696373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539845696405	Marionette	DEBUG	[6442450945] Frame script loaded
+1539845696406	Marionette	DEBUG	[6442450945] Frame script registered
+1539845696427	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539845696434	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539845696435	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539845696436	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 15144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845697252	Marionette	DEBUG	[8589934593] Frame script loaded
+1539845697261	Marionette	DEBUG	[8589934593] Frame script registered
+1539845697301	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539845697317	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539845697518	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845713035	Marionette	INFO	Stopped listening on port 52046
+[GPU 12324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539845794099	geckodriver	INFO	Listening on 127.0.0.1:52096
+1539845797135	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539845801464	Marionette	INFO	Listening on port 52104
+1539845801837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539845801895	Marionette	DEBUG	[6442450945] Frame script loaded
+1539845801896	Marionette	DEBUG	[6442450945] Frame script registered
+1539845801918	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539845801927	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539845801928	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539845801929	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845802712	Marionette	DEBUG	[8589934593] Frame script loaded
+1539845802720	Marionette	DEBUG	[8589934593] Frame script registered
+1539845802918	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539845802969	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539845803025	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: 1539845861195	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539845865638	Marionette	INFO	Listening on port 52157
+1539845865807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539845865860	Marionette	DEBUG	[6442450945] Frame script loaded
+1539845865865	Marionette	DEBUG	[6442450945] Frame script registered
+1539845865897	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539845865908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539845865909	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539845865909	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 5000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539845867003	Marionette	DEBUG	[8589934593] Frame script loaded
+1539845867016	Marionette	DEBUG	[8589934593] Frame script registered
+1539845867182	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539845867232	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539845867263	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846007313	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 5000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539846122091	Marionette	INFO	Stopped listening on port 52157
+[GPU 12316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+DEBUG	[8589934593] Frame script loaded
+1539845968281	Marionette	DEBUG	[8589934593] Frame script registered
+1539845968453	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539845968518	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539845968559	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846116656	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14912, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539846124962	Marionette	INFO	Stopped listening on port 52266
+[GPU 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+123368	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539846123393	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846123521	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846123850	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 14668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14668, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539846198060	Marionette	INFO	Stopped listening on port 52377
+[GPU 13836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+A%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846161664	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846162063	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539846195864	Marionette	INFO	Stopped listening on port 52431
+[GPU 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539846314929	geckodriver	INFO	Listening on 127.0.0.1:52492
+1539846317897	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539846322332	Marionette	INFO	Listening on port 52500
+1539846324349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539846324382	Marionette	DEBUG	[6442450945] Frame script loaded
+1539846324383	Marionette	DEBUG	[6442450945] Frame script registered
+1539846324402	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539846324412	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539846324413	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539846324414	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 14468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539846325234	Marionette	DEBUG	[8589934593] Frame script loaded
+1539846325242	Marionette	DEBUG	[8589934593] Frame script registered
+1539846325282	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539846325299	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539846325522	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539846329594	Marionette	INFO	Stopped listening on port 52500
+[GPU 13664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539846365920	geckodriver	INFO	Listening on 127.0.0.1:52547
+1539846368998	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539846373177	Marionette	INFO	Listening on port 52555
+1539846373496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539846373532	Marionette	DEBUG	[6442450945] Frame script loaded
+1539846373533	Marionette	DEBUG	[6442450945] Frame script registered
+1539846373558	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539846375558	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539846376454	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539846376787	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%A5%A5%E7%89%B9%E6%9B%BC&json=1&p=3&sid=1438_21111_20719&req=2&csor=3&pwd=%E5%A5%A5%E7%89%B9&cb=jQuery11020028388984296016884_1539846376319&_=1539846376323, line 1: TypeError: jQuery11020028388984296016884_1539846376319 is not a function
+1539846377237	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1539846455809	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7756, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539846639078	Marionette	INFO	Stopped listening on port 52555
+[GPU 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539846743339	geckodriver	INFO	Listening on 127.0.0.1:52687
+1539846746412	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539846750595	Marionette	INFO	Listening on port 52695
+1539846750890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539846750926	Marionette	DEBUG	[6442450945] Frame script loaded
+1539846750927	Marionette	DEBUG	[6442450945] Frame script registered
+1539846750959	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539846753092	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539846753562	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539846753643	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%A5%A5&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=1&cb=jQuery110205739439740623306_1539846753425&_=1539846753427, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%A5%A5%E7%89%B9&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=2&pwd=%E5%A5%A5&cb=jQuery110205739439740623306_1539846753425&_=1539846753428, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%A5%A5%E7%89%B9%E6%9B%BC&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=3&pwd=%E5%A5%A5%E7%89%B9&cb=jQuery110205739439740623306_1539846753425&_=1539846753429, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+1539846754071	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=5&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF&cb=jQuery110205739439740623306_1539846753425&_=1539846753434, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=6&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0&cb=jQuery110205739439740623306_1539846753425&_=1539846753435, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=9&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84&cb=jQuery110205739439740623306_1539846753425&_=1539846753438, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=7&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3&cb=jQuery110205739439740623306_1539846753425&_=1539846753436, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=10&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88&cb=jQuery110205739439740623306_1539846753425&_=1539846753439, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=11&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88&cb=jQuery110205739439740623306_1539846753425&_=1539846753440, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=12&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C&cb=jQuery110205739439740623306_1539846753425&_=1539846753441, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=14&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF&cb=jQuery110205739439740623306_1539846753425&_=1539846753443, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=15&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0&cb=jQuery110205739439740623306_1539846753425&_=1539846753444, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E4%BB%80&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=16&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84&cb=jQuery110205739439740623306_1539846753425&_=1539846753445, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E4%BB%80%E4%B9%88&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=17&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E4%BB%80&cb=jQuery110205739439740623306_1539846753425&_=1539846753446, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+1539846754571	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91%E6%98%AF&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=13&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84%E5%A6%88%E5%A6%88%EF%BC%8C%E6%88%91&cb=jQuery110205739439740623306_1539846753425&_=1539846753442, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF%E7%9A%84&json=1&p=3&sid=1453_27209_21124_20929&req=2&csor=8&pwd=%E6%88%91%E5%A5%B3%E5%84%BF%E6%98%AF%E4%BD%A0%E5%A5%B3%E5%84%BF&cb=jQuery110205739439740623306_1539846753425&_=1539846753437, line 1: TypeError: jQuery110205739439740623306_1539846753425 is not a function
+[Parent 8712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539847004480	Marionette	INFO	Stopped listening on port 52695
+[GPU 14520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539848260206	geckodriver	INFO	Listening on 127.0.0.1:53081
+1539848263279	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539848267380	Marionette	INFO	Listening on port 53089
+1539848267899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539848267952	Marionette	DEBUG	[6442450945] Frame script loaded
+1539848267954	Marionette	DEBUG	[6442450945] Frame script registered
+1539848267980	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539848267991	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539848267992	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539848267992	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 16036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539848268749	Marionette	DEBUG	[8589934593] Frame script loaded
+1539848268761	Marionette	DEBUG	[8589934593] Frame script registered
+1539848268940	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539848268959	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539848269022	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539848661310	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539848858542	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539848858542	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539848858543	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16036, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539849189091	Marionette	INFO	Stopped listening on port 53089
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539848962988	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539848962988	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539848962989	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14804, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539848963306	Marionette	INFO	Stopped listening on port 53148
+[GPU 6732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+romium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14460, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539848959759	Marionette	INFO	Stopped listening on port 53297
+[GPU 11984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539849106040	geckodriver	INFO	Listening on 127.0.0.1:53419
+1539849109067	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539849113266	Marionette	INFO	Listening on port 53428
+1539849114264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539849114297	Marionette	DEBUG	[6442450945] Frame script loaded
+1539849114298	Marionette	DEBUG	[6442450945] Frame script registered
+1539849114322	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539849114331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539849114332	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539849114332	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539849115090	Marionette	DEBUG	[8589934593] Frame script loaded
+1539849115106	Marionette	DEBUG	[8589934593] Frame script registered
+1539849115304	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539849115376	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539849115397	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+[Parent 15376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539849188006	Marionette	INFO	Stopped listening on port 53428
+[GPU 15380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+me_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539849174242	Marionette	DEBUG	[8589934593] Frame script loaded
+1539849174253	Marionette	DEBUG	[8589934593] Frame script registered
+1539849174293	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539849174308	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539849174502	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+[Parent 10128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10128, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539849185346	Marionette	INFO	Stopped listening on port 53481
+[GPU 14756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1539849318310	geckodriver	INFO	Listening on 127.0.0.1:53549
+1539849321367	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539849325776	Marionette	INFO	Listening on port 53557
+1539849327141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539849327175	Marionette	DEBUG	[6442450945] Frame script loaded
+1539849327176	Marionette	DEBUG	[6442450945] Frame script registered
+1539849327198	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539849327208	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539849327209	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539849327210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 15636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539849328186	Marionette	DEBUG	[8589934593] Frame script loaded
+1539849328196	Marionette	DEBUG	[8589934593] Frame script registered
+1539849328371	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539849328436	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539849328492	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539849716022	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539849916433	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539849916433	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539849916434	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14796, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539849922503	Marionette	INFO	Stopped listening on port 53557
+[GPU 14728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850560276	geckodriver	INFO	Listening on 127.0.0.1:60010
+1539850563255	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539850567644	Marionette	INFO	Listening on port 60019
+1539850569213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539850569257	Marionette	DEBUG	[6442450945] Frame script loaded
+1539850569258	Marionette	DEBUG	[6442450945] Frame script registered
+1539850569287	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539850569298	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539850569298	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539850569299	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 13196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850570121	Marionette	DEBUG	[8589934593] Frame script loaded
+1539850570131	Marionette	DEBUG	[8589934593] Frame script registered
+1539850570297	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539850570358	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850570399	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850570831	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539850571193	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro1539850643260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539850643324	Marionette	DEBUG	[6442450945] Frame script loaded
+1539850643328	Marionette	DEBUG	[6442450945] Frame script registered
+1539850643379	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539850643400	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539850643400	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539850643401	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 8440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr1539850643684	Marionette	INFO	Stopped lis1539850644538	Marionette	DEBUG	[8589934593] Frame script loaded
+1539850644547	Marionette	DEBUG	[8589934593] Frame script registered
+1539850644712	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539850644769	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850644817	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850645180	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 15300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850798204	Marionette	INFO	Stopped listening on port 60089
+[GPU 16188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850687972	Marionette	DEBUG	[8589934593] Frame script loaded
+1539850687981	Marionette	DEBUG	[8589934593] Frame script registered
+1539850688167	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539850688231	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850688257	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850688738	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 14360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850796842	Marionette	INFO	Stopped listening on port 60141
+[GPU 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850768917	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850769301	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539850769680	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 14356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4084, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539850795638	Marionette	INFO	Stopped listening on port 60199
+[GPU 15816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539850800106	geckodriver	INFO	Listening on 127.0.0.1:60255
+1539850803168	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539850808354	Marionette	INFO	Listening on port 60263
+1539850808837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539850808879	Marionette	DEBUG	[6442450945] Frame script loaded
+1539850808880	Marionette	DEBUG	[6442450945] Frame script registered
+1539850809212	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539850809352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539850809353	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539850809354	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 16220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539850810156	Marionette	DEBUG	[8589934593] Frame script loaded
+1539850810165	Marionette	DEBUG	[8589934593] Frame script registered
+1539850810256	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539850810276	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850810416	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850810802	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539850811141	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 16220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16220, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16220, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 13108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16220, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539851047837	Marionette	INFO	Stopped listening on port 60263
+[GPU 10176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850973993	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539850974387	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539850974709	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539850974951	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 16052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851046672	Marionette	INFO	Stopped listening on port 60337
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1539851062705	geckodriver	INFO	Listening on 127.0.0.1:60390
+1539851065789	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539851070490	Marionette	INFO	Listening on port 60398
+1539851071274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851071311	Marionette	DEBUG	[6442450945] Frame script loaded
+1539851071312	Marionette	DEBUG	[6442450945] Frame script registered
+1539851071625	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539851071645	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539851071646	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539851071651	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851072483	Marionette	DEBUG	[8589934593] Frame script loaded
+1539851072492	Marionette	DEBUG	[8589934593] Frame script registered
+1539851072684	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539851072753	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851072778	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851073215	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851073550	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851073791	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 13936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9828, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539851146745	Marionette	INFO	Stopped listening on port 60398
+[GPU 14396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Frame script loaded
+1539851116707	Marionette	DEBUG	[8589934593] Frame script registered
+1539851116752	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539851116773	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851116968	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851117487	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851117814	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 14136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16372, Chrome_ChildThread] WARNING: pipe error1539851152374	Marionette	INFO	Listening on port 60510
+1539851153281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851153314	Marionette	DEBUG	[6442450945] Frame script loaded
+1539851153316	Marionette	DEBUG	[6442450945] Frame script registered
+1539851153342	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539851153351	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539851153351	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539851153352	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 13704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851154180	Marionette	DEBUG	[8589934593] Frame script loaded
+1539851154188	Marionette	DEBUG	[8589934593] Frame script registered
+1539851154233	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539851154252	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851154496	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851154959	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851155314	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851155549	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851301952	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851372598	Marionette	INFO	Stopped listening on port 60510
+[GPU 15684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+UG	[8589934593] Frame script loaded
+1539851263751	Marionette	DEBUG	[8589934593] Frame script registered
+1539851263920	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539851263936	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851264050	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851264465	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851264838	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851265080	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851265315	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851265546	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 16120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13208, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13208, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539851371288	Marionette	INFO	Stopped listening on port 60578
+[GPU 11348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851298186	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851298775	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851299106	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851299340	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851299572	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851299806	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 11456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13880, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13880, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539851373892	Marionette	INFO	Stopped listening on port 60646
+[GPU 7432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851513527	geckodriver	INFO	Listening on 127.0.0.1:60768
+1539851516525	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539851521144	Marionette	INFO	Listening on port 60776
+1539851522414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539851522451	Marionette	DEBUG	[6442450945] Frame script loaded
+1539851522452	Marionette	DEBUG	[6442450945] Frame script registered
+1539851522610	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539851522620	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539851522621	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539851522622	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 15228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539851523445	Marionette	DEBUG	[8589934593] Frame script loaded
+1539851523455	Marionette	DEBUG	[8589934593] Frame script registered
+1539851523623	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539851523680	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851523714	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539851524166	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851524530	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851524749	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851524965	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851525182	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539851664911	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539852375487	Marionette	INFO	Stopped listening on port 60776
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539852275939	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539852276711	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852277086	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852277321	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852277557	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852277778	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539852376891	Marionette	INFO	Stopped listening on port 60964
+[GPU 16232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ate uninitialized for about:blank
+1539852355312	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539852355367	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539852355781	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852356142	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852356375	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852356609	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539852356827	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16040, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539852372331	Marionette	INFO	Stopped listening on port 61037
+[GPU 15288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853533006	geckodriver	INFO	Listening on 127.0.0.1:19165
+1539853535963	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539853541085	Marionette	INFO	Listening on port 19175
+1539853541545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539853541602	Marionette	DEBUG	[6442450945] Frame script loaded
+1539853541604	Marionette	DEBUG	[6442450945] Frame script registered
+1539853541631	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539853541650	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539853541651	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539853541653	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 13184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853542560	Marionette	DEBUG	[8589934593] Frame script loaded
+1539853542571	Marionette	DEBUG	[8589934593] Frame script registered
+1539853542614	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539853542861	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853542889	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853543344	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853543683	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853543904	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853544123	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853544344	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 15196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853557730	Marionette	INFO	Stopped listening on port 19175
+[GPU 15152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539853597385	geckodriver	INFO	Listening on 127.0.0.1:19275
+1539853600443	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539853604904	Marionette	INFO	Listening on port 19286
+1539853605942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539853605987	Marionette	DEBUG	[6442450945] Frame script loaded
+1539853605988	Marionette	DEBUG	[6442450945] Frame script registered
+1539853606011	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539853606019	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539853606020	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539853606020	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 15252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853606914	Marionette	DEBUG	[8589934593] Frame script loaded
+1539853606923	Marionette	DEBUG	[8589934593] Frame script registered
+1539853607100	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539853607116	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853607202	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853608134	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853608465	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853608689	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853608906	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853609123	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853778675	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 4084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853852784	Marionette	INFO	Stopped listening on port 19286
+[GPU 16876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+hread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853648420	Marionette	DEBUG	[8589934593] Frame script loaded
+1539853648433	Marionette	DEBUG	[8589934593] Frame script registered
+1539853648613	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539853648741	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853648751	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853649388	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853649778	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853650007	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853650240	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853650462	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853776336	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 13944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13944, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 13952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13944, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539853853752	Marionette	INFO	Stopped listening on port 19369
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+loaded
+1539853687496	Marionette	DEBUG	[8589934593] Frame script registered
+1539853687682	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539853687739	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853687772	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853688386	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853688721	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853688945	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853689166	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853689387	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853778679	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 14700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14700, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539853855115	Marionette	INFO	Stopped listening on port 19452
+[GPU 15844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853793830	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853794405	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853794746	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853794964	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853795188	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853795406	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 13812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13812, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539853856461	Marionette	INFO	Stopped listening on port 19667
+[GPU 16352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853853120	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853853470	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853854041	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853854275	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853854495	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853854737	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 18400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18400, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539853867708	Marionette	INFO	Stopped listening on port 19897
+1539853951026	geckodriver	INFO	Listening on 127.0.0.1:19985
+1539853954093	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539853958476	Marionette	INFO	Listening on port 19993
+1539853959468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539853959517	Marionette	DEBUG	[6442450945] Frame script loaded
+1539853959518	Marionette	DEBUG	[6442450945] Frame script registered
+1539853959538	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539853959548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539853959549	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539853959550	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 12356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539853960809	Marionette	DEBUG	[8589934593] Frame script loaded
+1539853960819	Marionette	DEBUG	[8589934593] Frame script registered
+1539853960863	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539853960880	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853961110	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539853962013	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853962376	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853962604	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853962827	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539853963045	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854220771	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12356, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539854330323	Marionette	INFO	Stopped listening on port 19993
+[GPU 15020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 17712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539854041330	Marionette	DEBUG	[8589934593] Frame script loaded
+1539854041338	Marionette	DEBUG	[8589934593] Frame script registered
+1539854041513	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539854041579	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854041612	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854042016	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854042390	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854042640	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854042885	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854043104	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854222231	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 17828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 18120, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539854330251	Marionette	INFO	Stopped listening on port 20078
+[GPU 16988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ipc_channel_win.cc, line 346
+1539854147539	Marionette	DEBUG	[8589934593] Frame script loaded
+1539854147549	Marionette	DEBUG	[8589934593] Frame script registered
+1539854147780	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539854147802	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854147921	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854148420	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854148770	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854148991	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854149207	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854149421	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854220758	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14616, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539854330291	Marionette	INFO	Stopped listening on port 20165
+[GPU 15844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Frame script loaded
+1539854307505	Marionette	DEBUG	[8589934593] Frame script registered
+1539854307550	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539854307569	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854307806	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854308234	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854308612	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854308840	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854309073	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854309304	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854309634	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 18260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18260, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539854326680	Marionette	INFO	Stopped listening on port 20337
+[GPU 13856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539854635223	geckodriver	INFO	Listening on 127.0.0.1:20421
+1539854638199	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539854643304	Marionette	INFO	Listening on port 20429
+1539854644554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539854644611	Marionette	DEBUG	[6442450945] Frame script loaded
+1539854644615	Marionette	DEBUG	[6442450945] Frame script registered
+1539854644628	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539854644639	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539854644655	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539854644656	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1539854645515	Marionette	DEBUG	[8589934593] Frame script loaded
+1539854645523	Marionette	DEBUG	[8589934593] Frame script registered
+1539854645723	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539854645781	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854645814	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854645978	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854646900	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854646901	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854647128	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539854647488	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539854647718	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539855106272	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855235396	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855235397	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539855235398	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Child 16676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539856279364	Marionette	INFO	Stopped listening on port 20429
+89934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854711224	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854711597	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854712115	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854712117	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854712187	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539854712548	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539854712640	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539854712652	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539854712654	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539854712656	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539854712669	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854712711	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854712973	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854713317	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854713547	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854713781	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854714004	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854714284	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539855108857	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855300917	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855300917	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539855300918	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14996, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539856276522	Marionette	INFO	Stopped listening on port 20502
+[GPU 14576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539854833597	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854833598	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854833690	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539854834000	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539854834129	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539854834140	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539854834144	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539854834146	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539854834157	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854834184	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539854834451	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854834845	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854835064	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854835296	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854835515	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539854835815	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539855107269	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855427126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539855427126	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539855427127	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 18392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539856282822	Marionette	INFO	Stopped listening on port 20618
+[GPU 15272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539914441191	geckodriver	INFO	Listening on 127.0.0.1:4365
+1539914444436	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539914456159	Marionette	INFO	Listening on port 4374
+1539914456354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539914456477	Marionette	DEBUG	[4294967297] Frame script loaded
+1539914456551	Marionette	DEBUG	[4294967297] Frame script registered
+1539914456620	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539914456631	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539914456631	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1539914456632	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967297
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539914457415	Marionette	DEBUG	[8589934593] Frame script loaded
+1539914457426	Marionette	DEBUG	[8589934593] Frame script registered
+1539914457629	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539914457644	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914458029	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914458794	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914460047	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914460050	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914460326	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539914461487	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539914461587	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539914461599	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539914461602	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539914461604	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539914461625	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914461643	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914461898	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914462241	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914462490	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914462740	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914462989	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914463319	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915046589	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915046589	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539915046592	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539915243438	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 2728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2728, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539915624604	Marionette	INFO	Stopped listening on port 4374
+[GPU 9000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914869419	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914871271	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914871274	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914871394	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539914872185	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539914872629	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539914872659	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539914872662	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539914872664	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539914872676	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914872700	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539914872952	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914873263	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914873513	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914873747	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914873981	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539914874277	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915244001	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915458918	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915458919	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539915458919	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 8648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8648, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915624541	Marionette	INFO	Stopped listening on port 4506
+[GPU 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915054966	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915055029	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915055386	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915055457	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915055464	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915055469	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915055471	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915055481	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915055500	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915055759	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915056087	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915056321	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915056570	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915056790	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915056972	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915056977	Marionette	DEBUG	[8589934602] Frame script registered
+1539915057188	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915243931	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915623569	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915623569	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539915623570	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915624566	Marionette	INFO	Stopped listening on port 4649
+[GPU 5256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915231043	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915231044	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915231105	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915231353	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915231489	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915231502	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915231504	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915231506	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915231546	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915231563	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915231826	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915232169	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915232388	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915232637	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915232872	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915233070	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915233077	Marionette	DEBUG	[8589934602] Frame script registered
+1539915233219	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 8968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915623640	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915623640	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539915623641	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Child 1600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915624644	Marionette	INFO	Stopped listening on port 4739
+5271919	Marionette	DEBUG	[8589934593] Frame script registered
+1539915272077	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539915272125	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915272207	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915272336	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915273308	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915273311	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915273369	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915273651	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915273717	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915273733	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915273739	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915273741	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915273750	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915273772	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915274031	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915274358	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915274593	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915274810	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915275044	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915275202	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915275209	Marionette	DEBUG	[8589934602] Frame script registered
+1539915275372	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 10560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915444901	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915444903	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915445118	Marionette	INFO	Stopped listening on port 4860
+[GPU 10388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915512431	geckodriver	INFO	Listening on 127.0.0.1:5050
+1539915515551	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539915518821	Marionette	INFO	Listening on port 5060
+1539915519323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539915519360	Marionette	DEBUG	[6442450945] Frame script loaded
+1539915519361	Marionette	DEBUG	[6442450945] Frame script registered
+1539915519385	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539915519393	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539915519394	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539915519395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915520086	Marionette	DEBUG	[8589934593] Frame script loaded
+1539915520092	Marionette	DEBUG	[8589934593] Frame script registered
+1539915520295	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539915520361	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915520391	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915520525	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915521187	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915521188	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915521277	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915521533	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915521626	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915521634	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915521636	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915521638	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915521659	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915521682	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915521938	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915522250	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915522468	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915522687	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915522921	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915523094	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915523100	Marionette	DEBUG	[8589934602] Frame script registered
+1539915523266	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915542987	Marionette	INFO	Stopped listening on port 5060
+[GPU 10776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915567180	geckodriver	INFO	Listening on 127.0.0.1:5143
+1539915570316	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539915573804	Marionette	INFO	Listening on port 5151
+1539915574036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539915574073	Marionette	DEBUG	[6442450945] Frame script loaded
+1539915574074	Marionette	DEBUG	[6442450945] Frame script registered
+1539915574097	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539915574109	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539915574110	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539915574110	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915574721	Marionette	DEBUG	[8589934593] Frame script loaded
+1539915574727	Marionette	DEBUG	[8589934593] Frame script registered
+1539915574886	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539915574944	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915575025	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915575185	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915575872	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915575873	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915575989	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915576237	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915576322	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915576340	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915576343	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915576346	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915576359	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915576414	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915576699	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915577074	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915577308	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915577541	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915577760	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915577934	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915577951	Marionette	DEBUG	[8589934602] Frame script registered
+1539915578129	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915578143	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915578213	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915578214	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915578434	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934600
+1539915578556	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915578572	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915619925	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539915619927	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915620214	Marionette	INFO	Stopped listening on port 5151
+[GPU 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915640351	geckodriver	INFO	Listening on 127.0.0.1:5231
+1539915643487	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539915647253	Marionette	INFO	Listening on port 5239
+1539915647420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539915647473	Marionette	DEBUG	[6442450945] Frame script loaded
+1539915647478	Marionette	DEBUG	[6442450945] Frame script registered
+1539915647522	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539915647542	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539915647543	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539915647543	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Child 8584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915648152	Marionette	DEBUG	[8589934593] Frame script loaded
+1539915648161	Marionette	DEBUG	[8589934593] Frame script registered
+1539915648325	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539915648364	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915648418	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915648543	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915649357	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915649359	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915649412	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915649668	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915649733	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915649740	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915649745	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915649747	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915649758	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915649779	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915650044	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915650372	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915650606	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915650824	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915651043	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915651186	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915651215	Marionette	DEBUG	[8589934602] Frame script registered
+1539915651375	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 10492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915675618	Marionette	INFO	Stopped listening on port 5239
+[GPU 10504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915742146	geckodriver	INFO	Listening on 127.0.0.1:5321
+1539915745251	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539915748475	Marionette	INFO	Listening on port 5329
+1539915748605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539915748651	Marionette	DEBUG	[6442450945] Frame script loaded
+1539915748663	Marionette	DEBUG	[6442450945] Frame script registered
+1539915748695	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539915748710	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539915748711	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539915748712	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539915749328	Marionette	DEBUG	[8589934593] Frame script loaded
+1539915749336	Marionette	DEBUG	[8589934593] Frame script registered
+1539915749377	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539915749393	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915749596	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915749732	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915750547	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915750549	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915750584	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539915751248	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539915751447	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539915751458	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539915751460	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539915751463	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539915751489	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915751509	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539915751763	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915752091	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915752325	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915752544	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915752794	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539915752940	Marionette	DEBUG	[8589934602] Frame script loaded
+1539915752977	Marionette	DEBUG	[8589934602] Frame script registered
+1539915753126	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Parent 6816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6816, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539915758603	Marionette	INFO	Stopped listening on port 5329
+1539916365703	geckodriver	INFO	Listening on 127.0.0.1:5530
+1539916368823	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539916372095	Marionette	INFO	Listening on port 5538
+1539916372562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539916372598	Marionette	DEBUG	[6442450945] Frame script loaded
+1539916372599	Marionette	DEBUG	[6442450945] Frame script registered
+1539916372820	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539916372831	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539916372832	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539916372832	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+[Parent 9700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539916373503	Marionette	DEBUG	[8589934593] Frame script loaded
+1539916373514	Marionette	DEBUG	[8589934593] Frame script registered
+1539916373691	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539916373757	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916373793	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916373909	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916375602	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916375604	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916375633	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539916376024	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539916376096	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539916376105	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539916376108	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539916376110	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539916376122	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916376151	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916376410	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916376738	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916376990	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916377237	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916377471	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916377637	Marionette	DEBUG	[8589934602] Frame script loaded
+1539916377646	Marionette	DEBUG	[8589934602] Frame script registered
+1539916377814	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 11076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9700, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539916439678	Marionette	INFO	Stopped listening on port 5538
+[GPU 4876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539916425414	Marionette	DEBUG	[8589934593] Frame script loaded
+1539916425424	Marionette	DEBUG	[8589934593] Frame script registered
+1539916425591	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539916425609	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916425720	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916425846	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916426108	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916426111	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916426184	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539916426643	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539916426833	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539916426845	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539916426847	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539916426849	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539916426884	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916426887	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916427147	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916427490	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916427724	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916427958	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916428177	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916428352	Marionette	DEBUG	[8589934602] Frame script loaded
+1539916428375	Marionette	DEBUG	[8589934602] Frame script registered
+1539916428535	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 10504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539916437832	Marionette	INFO	Stopped listening on port 5623
+[GPU 8760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539916511449	geckodriver	INFO	Listening on 127.0.0.1:5702
+1539916514569	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1539916517827	Marionette	INFO	Listening on port 5710
+1539916518302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539916518336	Marionette	DEBUG	[6442450945] Frame script loaded
+1539916518337	Marionette	DEBUG	[6442450945] Frame script registered
+1539916518353	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539916518360	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539916518360	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1539916518361	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450945
+1539916519052	Marionette	DEBUG	[8589934593] Frame script loaded
+1539916519060	Marionette	DEBUG	[8589934593] Frame script registered
+1539916519099	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+1539916519116	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916519303	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916519451	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916520121	Marionette	DEBUG	[8589934593] Received DOM event pagehide for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916520127	Marionette	DEBUG	[8589934593] Received DOM event unload for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916520176	Marionette	DEBUG	[8589934593] Received observer notification outer-window-destroyed for 8589934596
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1539916520542	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1539916520698	Marionette	DEBUG	[8589934593] Received DOM event pageshow for https://www.baidu.com/
+1539916520714	Marionette	DEBUG	[8589934593] Received DOM event beforeunload for https://www.baidu.com/
+1539916520717	Marionette	DEBUG	[8589934593] Received DOM event pagehide for https://www.baidu.com/
+1539916520719	Marionette	DEBUG	[8589934593] Received DOM event unload for https://www.baidu.com/
+1539916520740	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916520750	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///F://%E6%99%BA%E9%83%8E%E7%91%9E%E5%8D%9A/%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%85%A8/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/%E5%B7%A5%E5%85%B7/coshttp/demo.html
+1539916521017	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916521376	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916521626	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916521875	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916522125	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1539916522277	Marionette	DEBUG	[8589934602] Frame script loaded
+1539916522294	Marionette	DEBUG	[8589934602] Frame script registered
+1539916522449	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+[Child 4464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10680, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1539916542673	Marionette	INFO	Stopped listening on port 5710
+[GPU 10912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
